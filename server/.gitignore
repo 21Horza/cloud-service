@@ -1,0 +1,11 @@
+#dependecies
+node_modules
+
+# See http://help.github.com/articles/ignoring-files/ for more about ignoring files.
+.idea
+
+#dependacies
+client/node_modules
+
+server/files
+server/static

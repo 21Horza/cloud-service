@@ -1,0 +1,11 @@
+.profile__delete {
+  padding: 4px 8px;
+  background-color: #c92200;
+  border-radius: 5px;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.profile__download {
+  padding: 4px 8px;
+}

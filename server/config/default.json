@@ -1,0 +1,7 @@
+{
+    "serverPort" : 5000,
+    "dbUrl": "mongodb+srv://dbUser:qwerty654321@cloud-storage.2qxqn.mongodb.net/cloud-storage?retryWrites=true&w=majority",
+    "secretKey": "secretKEYpass",
+    "filePath": "/Users/iliashuianov/projects/js_projects/cloud/server/files/",
+    "staticPath": "/Users/iliashuianov/projects/js_projects/cloud/server/static"
+}
